@@ -1,14 +1,14 @@
 
 Sales Dashboard Insights
 
-1. 🌍 West Region Dominates:
+1.  West Region Dominates:
    The West region clearly outperforms all others in sales volume. It should be prioritized for future campaigns and inventory planning.
 
-2. 💻 Technology Leads Sales:
+2.  Technology Leads Sales:
    Among all categories, Technology contributes the highest sales (≈ $252.61K), slightly ahead of Office Supplies. This suggests strong customer preference and potential for bundling.
 
-3. 📉 Low Sales Periods Exist:
+3.  Low Sales Periods Exist:
    Certain months (like early 2014) show noticeably low sales in the line chart. These periods might benefit from targeted promotions.
 
-4. 📈 November 2017 Peak:
+4.  November 2017 Peak:
    There is a sharp sales spike in November 2017, likely due to seasonal or promotional factors (e.g., Black Friday). This insight can inform future campaign timings.
